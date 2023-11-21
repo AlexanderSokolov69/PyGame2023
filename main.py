@@ -1,3 +1,5 @@
+# Author: AlexFalcon69
+
 def my_superfunction():
     print('What an awesome print!')
     print(1)
